@@ -1,0 +1,15 @@
+{
+  "name": "star_wars_movie_app",
+  "version": "1.0.0",
+  "description": "A basic Star Wars Movie App for Fans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tap Su",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
